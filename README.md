@@ -1,8 +1,11 @@
-- 👋 Hi, I’m Not important
-- 👀 I’m interested in: not your buisness
-- 🌱 I’m currently learning: why should i tell you
-- 💞️ I’m looking to collaborate: on i have no friends
-- 📫 How to reach me: classified
+- 👋 Hi, I’m Incredibly Anxious
+- 👀 I’m interested in: Being Happy
+- 🌱 I’m currently learning: Roblox Studios
+- 💞️ I’m looking to collaborate: On Roblox Games
+- 📫 How to reach me: 
+        Discord: @anotherunnameduser
+        Roblox:  @higuysimulater
+                
 
 <!---
 blockmaster52010/blockmaster52010 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
