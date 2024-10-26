@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Incredibly Anxious
+- 👋 Hi, I’m Incredibly Tired
 - 👀 I’m interested in: Being Happy
-- 🌱 I’m currently learning: Roblox Studios
+- 🌱 I’m currently learning: Roblox Studio Code
 - 💞️ I’m looking to collaborate: On Roblox Games
 - 📫 How to reach me: 
         Discord: @anotherunnameduser
